@@ -1,4 +1,5 @@
 import './App.css';
+import React from 'react'
 import { ChatEngine } from 'react-chat-engine';
 const App = () =>{
   return(
